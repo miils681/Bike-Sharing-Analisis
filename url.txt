@@ -1,1 +1,1 @@
-http://localhost:8501
+link dashboard yang sudah di deploy : https://dashsewasepeda.streamlit.app/
